@@ -1,4 +1,4 @@
-# Welcome to Vibe Coding: Your Path from Zero to App Creator
+# Welcome to Vibe Coding: Your Path from Zero to Pro Dev Hero
 
 ## What is Vibe Coding? (And Why Should I Care as a Non-Programmer?)
 
